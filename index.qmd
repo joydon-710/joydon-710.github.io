@@ -1,0 +1,28 @@
+---
+title: "S. Joy Donald - Data analytics Engineer"
+---
+
+## Hello! I'm S. Joy Donald
+
+
+**Master's student in Data Analytics Engineering** at George Mason University, building upon my strong foundation in **Artificial Intelligence** and **Machine Learning** from SRM University.
+
+I'm passionate about transforming data into actionable insights and solving complex problems through data-driven approaches.
+
+### Quick Overview
+- 🎓 **Master's Degree** in Data Analytics Engineering - *George Mason University* (Current)
+- 🎓 **Bachelor's Degree** in Computer Science (2021-2025)
+- 🤖 **Specialization**: AI & Machine Learning  
+- 💼 **Experience**: Flutter Development & ML Projects
+- 📊 **Skills**: Python, R, SQL, Data Analysis, Power BI, Tableau
+
+**Explore my portfolio to see my projects and experience!**
+
+---
+
+### Featured Projects
+- **Gold Mine Problem using Q-learning** - Reinforcement learning implementation
+- **Emotion Detection Through Text** - ML model for text classification
+- **Crop Connect India** - Agricultural marketplace platform
+
+[View My Projects →](projects.html)
