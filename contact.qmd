@@ -1,0 +1,25 @@
+---
+title: "Contact"
+---
+
+## Get In Touch
+
+I'm always open to discussing new opportunities, collaborations, or just having a chat about AI and technology!
+
+### Connect With Me
+
+-   **GitHub**: [github.com/joydon-710](https://github.com/joydon-710)
+-   **Email**: [sjoydonald\@gmail.com](mailto:sjoydonald@gmail.com)
+-   **Location**: Fairfax,Virginia
+-   **LinkedIn**: [Joy Donald Singavarapu](https://www.linkedin.com/in/joy-donald-singavarapu)
+
+### Technical Profiles
+
+-   GitHub: [github.com/joydon-710](https://github.com/joydon-710)
+-   LinkedIn: [Joy Donald Singavarapu](https://www.linkedin.com/in/joy-donald-singavarapu)
+
+------------------------------------------------------------------------
+
+## About This Website
+
+This website was built using **Quarto** and published on **GitHub Pages**, showcasing my projects and experience in the field of Artificial Intelligence and Machine Learning.
